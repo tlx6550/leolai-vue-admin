@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,kBAAkB;EAChB,UAAU,EAAE,UAAU;EACtB,KAAK,EAAE,gBAAe;EACtB,MAAM,EAAE,IAAI;EACZ,QAAQ,EAAE,KAAK;EACf,GAAG,EAAE,CAAC;EACN,MAAM,EAAE,CAAC;EACT,IAAI,EAAE,CAAC;EACP,OAAO,EAAE,IAAI",
+"sources": ["../../../../../../../../l%E8%B5%96/x%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/vuejs/dsvue/mylearn-elm-admin/admin/src/styles/sidebar.scss"],
+"names": [],
+"file": "sidebar.css"
+}
